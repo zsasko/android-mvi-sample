@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android MVI Sample</string>
+    <string name="error_screen_reload_data_button">Reload Data</string>
+    <string name="general_network_error_occurred">Network Error Occurred. Please try again later.</string>
+</resources>
